@@ -1,0 +1,206 @@
+.left {
+    display:inline-block;
+    float:left;
+    width: 65%;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-bottom: 0px;
+    height: 130px;
+    padding-bottom: 0px;
+    padding-top: 30px;
+    text-align: justify;
+}
+
+.right {
+    display:inline-block;
+    float:right;
+    width: 25%;
+    padding-right: 20px;
+    padding-left: 20px;
+    height: 1300px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    text-align: justify;
+}
+
+
+.nav {
+
+    display: inline;
+    width: 80%;
+    text-align: right;
+    
+}
+
+a {
+
+    display: inline-block;
+    padding: 20px;
+    padding-top: 50px;
+    text-align: right;
+    float: right;
+    
+}
+
+ul {
+
+    display: inline-block;
+    float: center;
+    height: 60px;
+}
+
+#main {
+
+    display: inline-block;
+    float: left;
+    margin: 60px;
+    margin-left: 100px;
+    
+}
+
+.discover {
+
+    display: inline-block;
+    float: left;
+    background-color: rgb(244, 241, 249);
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding-right: 170px;
+    text-align: justify;
+    
+}
+
+
+
+footer {
+    display:inline-block;
+    clear: both;
+    width: 100%;
+    margin-top: 50px;
+    background-color: rgb(245, 244, 235);
+    height: 500px;
+    text-align: justify;
+    
+    
+}
+
+.header {
+    font-weight:bold;
+    font-family:serif;
+    font-size: 40px;
+    width: 18%;
+    float: left;
+    text-align: center;
+    background-color: red;
+    color: white;
+    padding: 15px 5px 15px 5px;
+
+
+}
+
+h3 {
+    font-size:16px;
+    color:red;
+    font-weight:bold;
+    font-family:sans-serif;
+}
+
+.china {
+    width:100%;
+    height:200px;
+    clear: both;
+
+
+}
+
+
+.today {
+    width:100%;
+    display: inline;
+    clear: both;
+    height:20px;
+    font-family: sans-serif;
+
+
+}
+
+#date {
+   text-align:right;
+   margin:0px;
+   font-size: 20px;
+}
+
+
+
+.related {
+    width:100%;
+    display: inline-block;
+    clear: both;
+    margin-bottom:15px;
+
+
+}
+
+#velo {
+    width:60%;
+    float:right;
+    margin: 20px;
+
+
+}
+
+#oeil {
+    width:30%;
+    margin:20px;
+    float:left;
+
+
+}
+
+#chart {
+    width: 100%;
+
+
+}
+
+#missile {
+    width: 95%;
+    margin:20px;
+    margin-top: 40px;
+    float:right;
+
+
+}
+
+#goldberg {
+    width:40%;
+    float: right;
+    margin:40px;
+    margin-top: 80px;
+
+
+}
+
+p {
+
+    font-size: 25px;
+
+}
+
+hr {
+    width:100%;
+
+
+}
+
+h1 {
+
+    font-size: 35px;
+
+}
+
+h2 {
+
+    margin:0;
+
+}
